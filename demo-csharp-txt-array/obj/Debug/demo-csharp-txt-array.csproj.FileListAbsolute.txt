@@ -1,0 +1,6 @@
+c:\users\tanjiahao\documents\visual studio 2015\Projects\demo-csharp-txt-array\demo-csharp-txt-array\bin\Debug\demo-csharp-txt-array.exe.config
+c:\users\tanjiahao\documents\visual studio 2015\Projects\demo-csharp-txt-array\demo-csharp-txt-array\bin\Debug\demo-csharp-txt-array.exe
+c:\users\tanjiahao\documents\visual studio 2015\Projects\demo-csharp-txt-array\demo-csharp-txt-array\bin\Debug\demo-csharp-txt-array.pdb
+c:\users\tanjiahao\documents\visual studio 2015\Projects\demo-csharp-txt-array\demo-csharp-txt-array\obj\Debug\demo-csharp-txt-array.csprojResolveAssemblyReference.cache
+c:\users\tanjiahao\documents\visual studio 2015\Projects\demo-csharp-txt-array\demo-csharp-txt-array\obj\Debug\demo-csharp-txt-array.exe
+c:\users\tanjiahao\documents\visual studio 2015\Projects\demo-csharp-txt-array\demo-csharp-txt-array\obj\Debug\demo-csharp-txt-array.pdb
